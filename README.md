@@ -40,7 +40,7 @@ If the code is unable to identify any of these details, the corresponding key wi
 
 The code leverages Gradio framework to create a simple UI to upload image and retrieve a JSON output
 
-#### UI rendered by Gradio
+## UI rendered by Gradio
 <img width="1249" alt="image" src="https://github.com/DefiMan1729/GPT4-Vision_AppUI/assets/115624087/5f5c3bd7-2517-443c-9b89-14cd0dcba0b0">
 
 This will output a JSON object with the relevant details extracted from the image.
@@ -51,5 +51,5 @@ The `gr.Interface` function is used to create the interface. The `fn` parameter 
 
 Once the interface has been created, the `launch` method is called to start the interface. This will open a web page in the default browser, where the user can upload an image and view the extracted information.
 
-##Business Case
-The extracted information can be converted into an editable and searchable format. For instance you can now design UIs that are more intelligent enough to guide users to upload the right documents required by the application. It can verify basic details and empower downstream systems. 
+## Business Case
+The extracted information can be converted into an editable and searchable format. For instance you can now design UIs that are intelligent enough to guide users to upload the right documents required by the application or prevent the user from uploading incorrect documents for a business process, thus enabling straight through processes. It can verify basic details from the uploaded document (image) and empower downstream systems. 
