@@ -52,4 +52,4 @@ The `gr.Interface` function is used to create the interface. The `fn` parameter 
 Once the interface has been created, the `launch` method is called to start the interface. This will open a web page in the default browser, where the user can upload an image and view the extracted information.
 
 ## Business Case
-The extracted information can be converted into an editable and searchable format. For instance you can now design UIs that are intelligent enough to guide users to upload the right documents required by the application or prevent the user from uploading incorrect documents for a business process, thus enabling straight through processes. It can verify basic details from the uploaded document (image) and empower downstream systems. 
+The extracted information can be converted into an editable and searchable format. For instance you can now design UIs that are intelligent enough to guide users to upload the right documents required by the application or prevent the user from uploading incorrect documents, thus enabling straight through processes. It can verify basic details from the uploaded document (image) and empower downstream systems. 
