@@ -1,4 +1,4 @@
-# GPT4-Vision_GradioApp
+# GPT4-Vision Gradio App
 # JSON extraction from documents using GPT-4 Vision Preview
 
 This Python code allows you to extract useful details from a document image, such as the type of document, document number, name of the person, nationality, and date of birth. The code uses the GPT-4 Vision Preview API to analyze the image and extract the relevant information as JSON key value pair that can be used by downstream applications.
