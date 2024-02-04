@@ -43,6 +43,13 @@ The code leverages Gradio framework to create a simple UI to upload image and re
 ## UI rendered by Gradio
 <img width="1249" alt="image" src="https://github.com/DefiMan1729/GPT4-Vision_AppUI/assets/115624087/5f5c3bd7-2517-443c-9b89-14cd0dcba0b0">
 
+
+
+https://github.com/DefiMan1729/GPT4-Vision_AppUI/assets/115624087/e98238d6-236c-4c0f-8d13-b2713a498ce1
+
+
+
+
 This will output a JSON object with the relevant details extracted from the image.
 
 This Python code creates a Gradio interface for the `create_upload_file` function. The interface allows the user to upload an image and then analyzes the image to extract relevant information. The extracted information is then displayed as text.
